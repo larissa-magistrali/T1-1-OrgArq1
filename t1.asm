@@ -1,7 +1,3 @@
-# Nomes: Igor Couto, Larissa Magistrali
-# Organizacao e Arquitetura de Computadores 1 - 2019/1 
-# T1 - Busca Binaria 
-
 .text
 main:		
 	#Pilha
